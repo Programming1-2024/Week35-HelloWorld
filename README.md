@@ -69,7 +69,7 @@ Your tests should start out showing all failed, like this image
 
 ![image](https://github.com/user-attachments/assets/68083fb6-1a6b-4e80-8335-3878b534143e)
 
-And you are done when all the tests pass!
+And you are done when all the tests pass! No need to deliver anything.
 
 ![image](https://github.com/user-attachments/assets/1190eba5-9b67-4f23-a1dc-ca8b6ea8f826)
 
