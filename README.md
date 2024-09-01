@@ -9,7 +9,7 @@ My plan for this week's excersises are
 3. Opening Visual Studio Solution
 4. Coding
 
-I am expecting all parts to take a while, because of a multitude of problems you can't predict beforehand. So remember to share the solutions to the problems you are facing, and ask others for help!
+I am expecting all parts to take a while, because of a multitude of problems you can't predict beforehand. So remember to share the solutions to the problems you are facing, and ask others for help! My exercises are purely practice and not assignments, so no need to be stressed from them.
 ## Part 1: Setting up Github
 The first thing you need is an account on this website, so go make one.
 
@@ -52,3 +52,24 @@ Now that you have cloned the github project, you need to open the visual studio 
 2. open the file ending with `.sln`, in this case `Week35.sln`.
 
 If step 2 didn't work, try to use Open With then select Visual Studio
+
+## Part 4: Coding
+This has taken a while, so there isn't a lot of code. My goal is to introduce you to functions and tests. Essentially, i have made some tests and you need to code so that the tests pass.
+
+### The Task
+You will be working in the Week35Project project. Your task will be to implement the HelloWorld() and Addition() methods according to the documentation and the tests. The two functions are found below main(). If you haven't learnt about functions/methods yet, then my documentation notes will also try to explain how they work.
+
+### How to run tests
+In visual studio with the solution open:
+1. Click Tests at the top of the screen
+2. Click Test Explorer
+3. Click the Run All Tests In View button (button on the top left)
+
+Your tests should start out showing all failed, like this image
+
+![image](https://github.com/user-attachments/assets/68083fb6-1a6b-4e80-8335-3878b534143e)
+
+And you are done when all the tests pass!
+
+![image](https://github.com/user-attachments/assets/1190eba5-9b67-4f23-a1dc-ca8b6ea8f826)
+
